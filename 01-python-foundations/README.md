@@ -1,20 +1,31 @@
-# 01 — Python Foundations
+# AI Engineering Journey 🚀
 
-Notes and quick references for Python fundamentals, built as part of my AI/ML engineering learning journey.
+A structured, beginner-friendly repository documenting my 
+complete journey from Data Engineering to AI/ML Engineering.
 
-## Notes
+## Who is this for?
+Anyone learning Python, ML, Neural Networks, NLP, and AI Agents
+from scratch with practical, real-world examples.
 
-| # | File | Topic |
-|---|------|-------|
-| 01 | [print_function](./01_print_function.md) | `print()` — syntax, parameters, sep, end, file, flush |
-| 02 | [variables](./02_variables.md) | Variables — types, naming, assignment, constants |
-| 03 | [type_conversion](./03_type_conversion.md) | Casting — int, float, str, bool conversion |
-| 04 | [user_input](./04_user_input.md) | `input()` — dynamic variables, conversion after input |
+## Progress
 
-## Coming Up
-- 05 — Operators
-- 06 — Conditionals (if / elif / else)
-- 07 — Loops (for / while)
-- 08 — Functions
-- 09 — Lists, Tuples, Dictionaries
-- 10 — File Handling
+| Module | Topic | Status |
+|--------|-------|--------|
+| 01 | Python Foundations | 🟡 In Progress |
+| 02 | Machine Learning | ⬜ Coming Soon |
+| 03 | Advanced ML | ⬜ Coming Soon |
+| 04 | Neural Networks | ⬜ Coming Soon |
+| 05 | NLP + GenAI | ⬜ Coming Soon |
+| 06 | AI Agents | ⬜ Coming Soon |
+| 07 | Deploying AI | ⬜ Coming Soon |
+| 08 | SQL | ⬜ Coming Soon |
+| 09 | Computer Vision | ⬜ Coming Soon |
+| 10 | Advanced Agentic AI | ⬜ Coming Soon |
+| 11 | MLOps / LLMOps | ⬜ Coming Soon |
+| 12 | Capstone | ⬜ Coming Soon |
+
+## Stack
+Python · Scikit-learn · TensorFlow · SQL · LangChain · MLOps
+
+## Connect
+[LinkedIn](https://www.linkedin.com/in/vikram-mishra-60920ba9/)
